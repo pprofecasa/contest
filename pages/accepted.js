@@ -50,10 +50,10 @@ export default function index() {
                 <li className={classes.list}>
                   Haga un clon del siguiente repositorio:{' '}
                   <a
-                    href="https://github.com/huascarmm/nextJsContest"
+                    href="https://github.com/pprofecasa/nextjsContest"
                     target="_blank"
                   >
-                    https://github.com/huascarmm/nextJsContest
+                    https://github.com/pprofecasa/nextjsContest
                   </a>
                 </li>
                 <li className={classes.list}>
