@@ -1,5 +1,6 @@
 import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
+import Pixel from '../components/pixel';
 import {
   Container,
   Grid,
@@ -20,6 +21,7 @@ export default function index() {
 
   return (
     <Container maxWidth="sm">
+      <Pixel name={'FACEBOOK_PIXEL_1'} />
       <Grid
         container
         justify="center"
