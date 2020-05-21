@@ -38,7 +38,6 @@ export default function Questionnaire({ defineUrl }) {
 
   useEffect(() => {
     let rate = radio && tech ? [tech, radio] : false;
-    console.log(tech, radio, rate);
     defineUrl(rate);
   }, [radio, tech]);
 

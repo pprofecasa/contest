@@ -43,9 +43,13 @@ export default function index() {
                 Nos interesa mucho su postulación
               </Typography>
               <Typography variant="body2" color="textSecondary" component="p">
-                Por favor, siga los siguientes pasos:
+                Sus conocimientos nos interesan, por ello queremos verificarlos
+                con una prueba sencilla
               </Typography>
-
+              <br />
+              <Typography variant="body2" color="textSecondary" component="p">
+                Por favor siga los siguientes pasos:
+              </Typography>
               <ol>
                 <li className={classes.list}>
                   Haga un clon del siguiente repositorio:{' '}
@@ -57,24 +61,25 @@ export default function index() {
                   </a>
                 </li>
                 <li className={classes.list}>
-                  Programe una propuesta rápida de como optimizar el performance
+                  Trabaje sobre el código y mejore el performance del sitio.
+                  (SEGUN AUDIT DE CHROME)
                 </li>
                 <li className={classes.list}>
-                  Haga deploy y un captura de pantalla del reporte de Audit de
-                  Chrome
+                  Tome una captura de pantalla del reporte de Audit de Chrome
+                  (el nivel actual de PERFORMANCE está en 56)
                 </li>
                 <li className={classes.list}>
                   Envíe tal captura a{' '}
                   <a href="mailto: personalprofecasa@gmail.com">
                     personalprofecasa@gmail.com
                   </a>{' '}
-                  , añada además su nombre y número de WhatsApp
+                  , añada además su nombre, número de WhatsApp y pretension
+                  salarial mensual.
                 </li>
               </ol>
-
               <Typography variant="body2" color="textSecondary" component="p">
-                Habiendo recibido su captura de pantalla, nos comunicaremos con
-                usted.
+                Habiendo recibido los datos anteriores, nos comunicaremos con
+                usted para su primera propuesta de trabajo freelancer.
               </Typography>
             </CardContent>
           </CardActionArea>

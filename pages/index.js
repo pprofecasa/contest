@@ -38,25 +38,33 @@ export default function index() {
                 Freelancer Next.js
               </Typography>
               <Typography variant="body2" color="textSecondary" component="p">
-                Hola, tenemos una web app desarrollada en React.js, basada en un
-                template llamado Dandelion. Requerimos un desarrollador con
-                especial experiencia en Next.js, para migrar el el sitio
-                completo. Además, debe tener conocimientos en:
+                Somos un equipo de freelancer con clientes en Europa y Asia.
+              </Typography>
+              <br />
+              <Typography variant="body2" color="textSecondary" component="p">
+                Frecuentemente tenemos proyectos en React.js que necesitan ser
+                migrados a Next.js, manteniendo un nivel de performance y SEO
+                altos.
+              </Typography>
+              <br />
+              <Typography variant="body2" color="textSecondary" component="p">
+                Por ello convocamos a desarrolladores interesados en dominar
+                Next.js, los probaremos al migrar un primer sitio con el fin de
+                contratar dos de forma constante. Requieren saber:
               </Typography>
               <ul>
                 <li>React.js</li>
                 <li>Redux</li>
                 <li>Sagas</li>
+                <li>Inglés (nivel escrito suficiente)</li>
               </ul>
 
               <Typography gutterBottom component="b">
                 Remuneración y forma de trabajo
               </Typography>
               <Typography variant="body2" color="textSecondary" component="p">
-                El proyecto será a distancia, podemos definir un sistema de
-                trabajo por hora, aunque coordinaremos un tiempo estimado para
-                el proyecto. El pago pretendemos hacerlo por paypal aunque
-                podemos coordinar otras formas.
+                El proyecto será a distancia, un buen nivel salaríal y por
+                trabajo hecho, pudiendo dedicarle el tiempo que quiera.
               </Typography>
               <br />
               <Typography gutterBottom component="b">

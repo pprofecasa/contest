@@ -29,7 +29,7 @@ export default function Form() {
 
   useEffect(() => {
     if (rate.length > 1) {
-      if (rate[0] > 2 && rate[1] > 1) {
+      if (rate[0] > 2 && rate[1] > 0) {
         setRoute('/accepted');
       } else {
         setRoute('/rejected');
